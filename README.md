@@ -1,4 +1,4 @@
 <p align="center">
-  <img src="C:\Users\zeinab\Desktop\Jupetur" width="350" title="hover text">
-  <img src="C:\Users\zeinab\Desktop\Jupetur" width="350" alt="accessibility text">
+  <img src="file:///C:/Users/zeinab/Desktop/Jupetur/Mapworld.html" width="350" title="map">
+  <img src="file:///C:/Users/zeinab/Desktop/Jupetur/Mapworld.html" width="350" alt="treemap">
 </p>
